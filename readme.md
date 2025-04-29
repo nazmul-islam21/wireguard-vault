@@ -1,4 +1,4 @@
-# 🌟 Full Step-by-Step: Zero Trust VPN using WireGuard + Hasi Vault
+# 🌟 Zero Trust VPN using WireGuard + Hasi Vault
 
 ## 🎯 High-Level Design
 
